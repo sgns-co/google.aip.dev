@@ -32,3 +32,5 @@ docker run --rm \
   --mount type=bind,source=`pwd`,destination=/code/,readonly \
   aip-site \
   "$@"
+
+#HELLO WORLD!
